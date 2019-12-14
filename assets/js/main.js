@@ -100,12 +100,6 @@
 
 	};
 
-	Notification.requestPermission(function(permission){
-		// переменная permission содержит результат запроса
-		console.log('Результат запроса прав:', permission);
-		});
-
-
 	$(function() {
 
 		var	$window = $(window),
