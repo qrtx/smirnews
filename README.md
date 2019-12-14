@@ -1,0 +1,2 @@
+# smirnews
+сайт SmirNews
